@@ -1,7 +1,7 @@
 # Hi, I’m **Jalen Francis**
 
 **About Me**  
-I’m a Computer Science & Engineering student at Ohio State University
+I’m a Computer Science & Engineering student at Ohio State University. I currently work in Software Engineering at JPMC.
 
 ### 🔗 Quick Links
 
